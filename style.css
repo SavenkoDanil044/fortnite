@@ -6,6 +6,11 @@ body {
     background: cadetblue;
 }
 
+.photo {
+    margin-top: -7px;
+    margin-left: -7px;
+}
+
 .text-photo,h2 {
     position: absolute;
     color: white;
@@ -13,9 +18,9 @@ body {
     height: 36px;
     left: 16px;
     top: 502px;
-    font-size: 35px;
+    font-size: 37px;
     margin-top: -10px;
-    margin-left: 8px;
+    margin-left: 9px;
 }
 .text-photo,h4 {
     position: absolute;
@@ -26,16 +31,87 @@ body {
     color: #FFFFFF;
     font-size: 20px;
     margin-top: -7px;
-    margin-left: 8px;
+    margin-left: 9px;
 }
-.text-photo,p {
+.text-photo,h5 {
     position: absolute;
     width: 278px;
     height: 37px;
     left: 16px;
     top: 579px;
-    font-size: 17px;
+    font-size: 20px;
     color: #FFFFFF;
-    margin-top: 5px;
-    margin-left: 8px;
+    margin-top: 3px;
+    margin-left: 9px;
 }
+
+.header {
+    position: absolute;
+    background:white;
+    width: 700px;
+    height: 150px;
+    margin-left: 263px;
+    margin-top: -616px;
+}
+
+.text-header {
+    color:black;
+    font-size: 22px;
+    font-family: Arial;
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 35px;
+    font-family: 'PT Serif', serif;
+}
+
+.text-header_sub {
+    color:rgb(99, 97, 97);
+    font-size: 21px;
+    font-family: Arial;
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 60px;
+    font-family: 'PT Serif', serif;
+}
+
+.person {
+    background: #eceaea;
+    position: absolute;
+    width: 700px;
+    height: 463px;
+    margin-left: 263px;
+    margin-top: -467px;
+}
+
+.text-about_person {
+    font-family: 'PT Serif', serif;
+    padding-left: 95px;
+    margin-bottom: -8px;
+}
+
+.list {
+    font-size: 14px;
+    padding-top: 0px ;
+    padding-left: 72px;
+    margin-bottom: -6px;
+}
+
+.logo {
+    background:white;
+    position: absolute;
+    margin-top: -19px;
+    margin-left: 610px;
+    width: 90px;
+    height: 36px;
+    box-shadow: -2px 0px 6px 0px black;
+}
+
+.text-logo {
+    padding: 1px;
+    padding-left: 11px;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'PT Serif', serif;
+    font-size: 25px;
+    position: absolute;
+}
+
