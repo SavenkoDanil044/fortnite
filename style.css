@@ -1,0 +1,41 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    background: cadetblue;
+}
+
+.text-photo,h2 {
+    position: absolute;
+    color: white;
+    width: 318px;
+    height: 36px;
+    left: 16px;
+    top: 502px;
+    font-size: 35px;
+    margin-top: -10px;
+    margin-left: 8px;
+}
+.text-photo,h4 {
+    position: absolute;
+    width: 285px;
+    height: 37px;
+    left: 16px;
+    top: 554px;
+    color: #FFFFFF;
+    font-size: 20px;
+    margin-top: -7px;
+    margin-left: 8px;
+}
+.text-photo,p {
+    position: absolute;
+    width: 278px;
+    height: 37px;
+    left: 16px;
+    top: 579px;
+    font-size: 17px;
+    color: #FFFFFF;
+    margin-top: 5px;
+    margin-left: 8px;
+}
