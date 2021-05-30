@@ -6,6 +6,11 @@ body {
     background: cadetblue;
 }
 
+* {
+    margin: 0;
+    padding: 0;
+}
+
 .photo {
     margin-top: -7px;
     margin-left: -7px;
@@ -86,21 +91,21 @@ body {
 .text-about_person {
     font-family: 'PT Serif', serif;
     padding-left: 95px;
-    margin-bottom: -8px;
+    margin-bottom: 4px;
+    padding-top: 6px;
 }
 
 .list {
     font-size: 14px;
-    padding-top: 0px ;
-    padding-left: 72px;
-    margin-bottom: -6px;
+    padding-left: 110px;
+    margin-bottom: 15px;
 }
 
 .logo {
     background:white;
     position: absolute;
-    margin-top: -19px;
-    margin-left: 610px;
+    margin-top: -40px;
+    margin-left: 873px;
     width: 90px;
     height: 36px;
     box-shadow: -2px 0px 6px 0px black;
