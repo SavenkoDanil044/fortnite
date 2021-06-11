@@ -120,6 +120,30 @@ body {
     position: absolute;
 }
 
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+.button-but {
+    background: yellowgreen;
+    border-radius: 3px;
+    padding: 10px;
+    width: 300px;
+    font-weight:  bold;
+    text-decoration: none;
+    text-align: center;
+    border:2px solid black;
+    color: rgb(16, 95, 89);
+}
+
+.button-but:hover {
+    background: cornflowerblue;
+    transition: 1s ease;
+    color: crimson;
+}
+
+
 
 
 
